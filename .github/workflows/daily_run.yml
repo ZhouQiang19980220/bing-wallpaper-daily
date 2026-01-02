@@ -1,0 +1,52 @@
+name: Daily Bing Wallpaper
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 北京时间 08:00
+  workflow_dispatch:
+    inputs:
+      market:
+        description: 'Bing Market Region'
+        required: false
+        default: 'zh-CN'
+
+permissions:
+  contents: write
+
+jobs:
+  run-collector:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # 开启 pip 缓存，加快运行速度
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Collector Script
+        # 支持从 workflow 手动输入参数，或者默认 zh-CN
+        run: |
+          MARKET="${{ inputs.market || 'zh-CN' }}"
+          python src/main.py --output archives --market $MARKET
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 只有当有文件变动时才提交
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            git commit -m "🖼️ Auto-update: Bing Wallpaper $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "⚠️ No changes to commit."
+          fi
