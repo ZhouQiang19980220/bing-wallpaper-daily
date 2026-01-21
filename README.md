@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-01-20)
+## 📅 Today (2026-01-21)
 
-![栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)](https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![欧亚红松鼠 (© Galina Jacyna/Getty Images)](https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)**
+> **欧亚红松鼠 (© Galina Jacyna/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
