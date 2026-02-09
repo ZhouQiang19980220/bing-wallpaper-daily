@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-02-08)
+## 📅 Today (2026-02-09)
 
-![科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)](https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)**
+> **阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
