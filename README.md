@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-03-15)
+## 📅 Today (2026-03-16)
 
-![太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)](https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)**
+> **正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
