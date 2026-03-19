@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-03-16)
+## 📅 Today (2026-03-19)
 
-![正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)](https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)](https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)**
+> **澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
