@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-03-31)
+## 📅 Today (2026-04-01)
 
-![天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)](https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)**
+> **粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
