@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-04-06)
+## 📅 Today (2026-04-07)
 
-![樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)](https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![河狸，德国 (© Andyworks/Getty Images)](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)**
+> **河狸，德国 (© Andyworks/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
