@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-04-09)
+## 📅 Today (2026-04-10)
 
-![雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)](https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)**
+> **卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
