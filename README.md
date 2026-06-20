@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-06-19)
+## 📅 Today (2026-06-20)
 
-![湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)**
+> **漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
