@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-06-25)
+## 📅 Today (2026-06-26)
 
-![布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)](https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)**
+> **泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
