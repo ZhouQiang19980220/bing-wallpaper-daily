@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-07-01)
+## 📅 Today (2026-07-02)
 
-![地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)**
+> **埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
