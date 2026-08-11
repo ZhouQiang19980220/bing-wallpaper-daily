@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-08-10)
+## 📅 Today (2026-08-11)
 
-![约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)](https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)**
+> **哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
