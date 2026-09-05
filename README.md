@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-09-04)
+## 📅 Today (2026-09-05)
 
-![韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)**
+> **龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
