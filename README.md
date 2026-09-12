@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-09-11)
+## 📅 Today (2026-09-12)
 
-![滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)**
+> **墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
