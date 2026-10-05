@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-10-04)
+## 📅 Today (2026-10-05)
 
-![阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)**
+> **南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
