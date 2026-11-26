@@ -3,11 +3,11 @@
 > 🤖 Auto-collected by GitHub Actions.
 > Market: zh-CN
 
-## 📅 Today (2026-11-25)
+## 📅 Today (2026-11-26)
 
-![日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)](https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-> **日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)**
+> **怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)**
 
 ## 🗄️ Archives
 - [View Archives](archives/)
